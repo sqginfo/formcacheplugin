@@ -2,7 +2,7 @@
     "name": "sqginfo/formcachesqgplugin",
     "type": "library",
     "description": "contem as funçoes do fengyuanchen",
-    "keywords": ["" ],
+    "keywords": [],
     "homepage": "https://github.com/sqginfo/formcacheplugin",
     "license": ["LGPL-3.0-or-later+", "GPL-3.0-or-later", "MIT"],
     "authors": [
