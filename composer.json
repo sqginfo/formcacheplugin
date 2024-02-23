@@ -1,5 +1,6 @@
 {
     "name": "sqginfo/formcachesqgplugin",
+    "version": "1.0.0",
     "type": "library",
     "description": "contem as funçoes do fengyuanchen",
     "keywords": [],
@@ -19,5 +20,5 @@
     ],
     "require": {
         "php" : ">= 7.0"             
-    }    
+    }     
 }
