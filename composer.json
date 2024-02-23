@@ -1,6 +1,5 @@
 {
-    "name": "sqginfo/formcachesqgplugin",
-    "version": "1.0.1",
+    "name": "sqginfo/formcachesqgplugin",    
     "type": "library",
     "description": "contem as funçoes do fengyuanchen",
     "keywords": [],
